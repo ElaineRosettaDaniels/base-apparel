@@ -1,5 +1,6 @@
 ﻿body {
     background-image: url(images/bg-pattern-desktop.svg);
+    background-size: 70%;
 }
 
 .attribution {
@@ -16,5 +17,10 @@
 }
 
 #hero-desktop {
-    height: auto;
+    height: 100vh;
+    object-fit: cover;
+}
+
+#scrn-left {
+    padding-left: 150px;
 }
