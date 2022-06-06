@@ -1,6 +1,7 @@
 ﻿body {
     background-image: url(images/bg-pattern-desktop.svg);
     background-size: 70%;
+    font-family: 'Josefin Sans';
 }
 
 .attribution {
@@ -16,6 +17,19 @@
     padding-right: 0px;
 }
 
+#ba-logo {
+    padding-top: 4em;
+    padding-bottom: 7em;
+}
+
+#coming-soon {
+    text-transform: capitalize;
+}
+
+#cs {
+    font-weight: 
+}
+
 #hero-desktop {
     height: 100vh;
     object-fit: cover;
@@ -23,4 +37,8 @@
 
 #scrn-left {
     padding-left: 150px;
+}
+
+#we {
+    font-weight: 300;
 }
