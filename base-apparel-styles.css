@@ -13,8 +13,13 @@
     color: hsl(228, 45%, 44%);
 }
 
-.col-lg-5 {
+#image-col {
     padding-right: 0px;
+}
+
+#announcement {
+    font-weight: 400;
+    color: hsl(0, 36%, 70%);
 }
 
 #ba-logo {
@@ -24,6 +29,8 @@
 
 #coming-soon {
     text-transform: capitalize;
+    letter-spacing: .7rem;
+    font-size: 65px;
 }
 
 #cs {
@@ -40,5 +47,6 @@
 }
 
 #we {
+    font-weight: 300;
     color: hsl(0, 36%, 70%);
 }
