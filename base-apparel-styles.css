@@ -31,10 +31,15 @@
     text-transform: capitalize;
     letter-spacing: .7rem;
     font-size: 65px;
+    line-height: 110%;
 }
 
 #cs {
     font-weight: 600;
+}
+
+#email-address-input {
+    border-radius: 2rem;
 }
 
 #hero-desktop {
@@ -47,6 +52,6 @@
 }
 
 #we {
-    font-weight: 300;
+    font-weight: 200;
     color: hsl(0, 36%, 70%);
 }
